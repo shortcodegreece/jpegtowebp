@@ -30,4 +30,4 @@ This is a simple web application that allows you to upload JPEG, JPG, and PNG im
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)
+This project is licensed under the MIT License 
